@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import { Routes, Link } from "react-router-dom";
 import { ToastProvider } from "./contexts/ToastContext";
-import routes from "./routes";
+import routes from "./routers/routes";
 import styles from "./styles/global.module.css";
 
 function App() {

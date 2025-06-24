@@ -16,6 +16,7 @@ npm run dev
 ## Features
 
 - Course List Page (React, Next.js)
+- **Protected Routes** – Users cannot access `/course/:id` unless enrolled
 - Enroll Now / Continue Learning buttons
 - Global progress tracking (Context API & localStorage)
 - Progress bar for completed lessons
