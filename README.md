@@ -27,6 +27,18 @@ npm run dev
 
 ---
 
+## Screenshots
+
+### Course List
+
+![Course List](./public/image-1.png)
+
+### Course Details
+
+![Course Details](./public/image-2.png)
+
+---
+
 ## Tech Stack
 
 | Layer        | Tech Used            |
